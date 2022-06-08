@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://gzbsingh.github.io/csb-vcqtmi/static/css/main.70e72841.chunk.css",
+    "main.js": "https://gzbsingh.github.io/csb-vcqtmi/static/js/main.d323c77c.chunk.js",
+    "main.js.map": "https://gzbsingh.github.io/csb-vcqtmi/static/js/main.d323c77c.chunk.js.map",
+    "runtime-main.js": "https://gzbsingh.github.io/csb-vcqtmi/static/js/runtime-main.620d7eaa.js",
+    "runtime-main.js.map": "https://gzbsingh.github.io/csb-vcqtmi/static/js/runtime-main.620d7eaa.js.map",
+    "static/js/2.2c01d8e5.chunk.js": "https://gzbsingh.github.io/csb-vcqtmi/static/js/2.2c01d8e5.chunk.js",
+    "static/js/2.2c01d8e5.chunk.js.map": "https://gzbsingh.github.io/csb-vcqtmi/static/js/2.2c01d8e5.chunk.js.map",
+    "index.html": "https://gzbsingh.github.io/csb-vcqtmi/index.html",
+    "static/css/main.70e72841.chunk.css.map": "https://gzbsingh.github.io/csb-vcqtmi/static/css/main.70e72841.chunk.css.map",
+    "static/js/2.2c01d8e5.chunk.js.LICENSE.txt": "https://gzbsingh.github.io/csb-vcqtmi/static/js/2.2c01d8e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.620d7eaa.js",
+    "static/js/2.2c01d8e5.chunk.js",
+    "static/css/main.70e72841.chunk.css",
+    "static/js/main.d323c77c.chunk.js"
+  ]
+}
